@@ -1,0 +1,103 @@
+* MacBook Pro 14" - 1 */
+
+position: relative;
+width: 1512px;
+height: 982px;
+
+background: #FFFFFF;
+
+
+/* MacBook Pro 14" - 2 */
+
+position: relative;
+width: 1512px;
+height: 982px;
+
+background: #FFFFFF;
+
+
+/* marius-masalar-rPOmLGwai2w-unsplash 1 */
+
+position: absolute;
+width: 1637px;
+height: 1069px;
+
+background: url(marius-masalar-rPOmLGwai2w-unsplash.jpg);
+mix-blend-mode: overlay;
+
+
+/* andrew-kliatskyi-r4HT6aurLQw-unsplash 1 */
+
+position: absolute;
+width: 2160px;
+height: 3840px;
+left: -674px;
+top: -1805px;
+
+background: url(andrew-kliatskyi-r4HT6aurLQw-unsplash.jpg);
+
+
+/* pavor-k4ORFmFweOQ-unsplash 1 */
+
+position: absolute;
+width: 3840px;
+height: 2160px;
+left: -1638px;
+top: -875px;
+
+background: url(pavor-k4ORFmFweOQ-unsplash.jpg);
+mix-blend-mode: color;
+
+
+/* marius-masalar-rPOmLGwai2w-unsplash 2 */
+
+position: absolute;
+width: 3888px;
+height: 2592px;
+left: -1433px;
+top: -971px;
+
+background: url(marius-masalar-rPOmLGwai2w-unsplash.jpg);
+mix-blend-mode: overlay;
+
+
+/* israel-palacio-Y20JJ_ddy9M-unsplash 3 */
+
+position: absolute;
+width: 1145px;
+height: 982px;
+left: -185px;
+top: 0px;
+
+background: url(israel-palacio-Y20JJ_ddy9M-unsplash.jpg);
+mix-blend-mode: luminosity;
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 807px;
+height: 722px;
+left: 679px;
+top: 115px;
+
+background: #64CEC8;
+mix-blend-mode: overlay;
+
+
+/* καλλιεργώ */
+
+position: absolute;
+width: 439px;
+height: 189px;
+left: 899px;
+top: 325px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 116px;
+
+color: #CEB2B0;
+
